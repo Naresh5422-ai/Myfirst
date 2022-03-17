@@ -1,4 +1,4 @@
 # Git Practice
 
 
-it is practicing git
+it is practicing for git
