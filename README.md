@@ -5,4 +5,4 @@ it is practicing for git
 
 adding one more
 
-trying to learn git
+trying to learn gitHub
